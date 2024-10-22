@@ -1,0 +1,51 @@
+body {
+    background-color:chartreuse;
+}
+h1 {
+    color:crimson;
+}
+p {
+    color: darkcyan;
+}
+
+span {
+    color: blue;
+}
+
+#help {
+    position: relative;
+    top:-40px;
+    left:130px;
+}
+
+#shapka {
+    position: relative;
+    left:550px;
+}
+
+#login {
+    position: relative;
+    left:1200px;
+    top:-230px;
+}
+
+#win {
+    position: relative;
+    left:-50px;
+}
+
+#text1 {
+    position: relative;
+    top:-20px;
+    left:25px;
+}
+
+#name {
+    position: relative;
+    top:-329px;
+    color: red;
+}
+
+h2 {
+    color: blue
+}
